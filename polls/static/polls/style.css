@@ -1,0 +1,19 @@
+li a,
+h1 {
+  color: rgb(106, 250, 183);
+  font-size: 300%;
+  text-decoration: none;
+}
+
+form {
+  color: rgb(25, 141, 151);
+  font-size: 300%;
+  text-decoration: none;
+}
+
+body {
+  background: white url("images/bg.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
